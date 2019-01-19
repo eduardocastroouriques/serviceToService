@@ -1,0 +1,13 @@
+com/ouriques/serviceToService/model/Band.class
+com/ouriques/serviceToService/service/BandService.class
+com/ouriques/serviceToService/model/CustomResponse.class
+com/ouriques/serviceToService/model/Track.class
+com/ouriques/serviceToService/ServiceToServiceApplication.class
+com/ouriques/serviceToService/controller/BandController.class
+com/ouriques/serviceToService/common/CustomInterceptor.class
+com/ouriques/serviceToService/builder/ResponseBuilder.class
+com/ouriques/serviceToService/common/RestTemplateResponseErrorHandler.class
+com/ouriques/serviceToService/common/CustomIOException.class
+com/ouriques/serviceToService/common/ServiceUrl.class
+com/ouriques/serviceToService/common/CustomerInterceptorRegister.class
+com/ouriques/serviceToService/model/Album.class

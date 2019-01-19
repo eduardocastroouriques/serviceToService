@@ -1,0 +1,13 @@
+/home/eduardo-ouriques/git_repository/serviceToService/src/main/java/com/ouriques/serviceToService/common/ServiceUrl.java
+/home/eduardo-ouriques/git_repository/serviceToService/src/main/java/com/ouriques/serviceToService/common/CustomInterceptor.java
+/home/eduardo-ouriques/git_repository/serviceToService/src/main/java/com/ouriques/serviceToService/common/RestTemplateResponseErrorHandler.java
+/home/eduardo-ouriques/git_repository/serviceToService/src/main/java/com/ouriques/serviceToService/model/Track.java
+/home/eduardo-ouriques/git_repository/serviceToService/src/main/java/com/ouriques/serviceToService/model/Album.java
+/home/eduardo-ouriques/git_repository/serviceToService/src/main/java/com/ouriques/serviceToService/controller/BandController.java
+/home/eduardo-ouriques/git_repository/serviceToService/src/main/java/com/ouriques/serviceToService/service/BandService.java
+/home/eduardo-ouriques/git_repository/serviceToService/src/main/java/com/ouriques/serviceToService/common/CustomIOException.java
+/home/eduardo-ouriques/git_repository/serviceToService/src/main/java/com/ouriques/serviceToService/builder/ResponseBuilder.java
+/home/eduardo-ouriques/git_repository/serviceToService/src/main/java/com/ouriques/serviceToService/model/Band.java
+/home/eduardo-ouriques/git_repository/serviceToService/src/main/java/com/ouriques/serviceToService/ServiceToServiceApplication.java
+/home/eduardo-ouriques/git_repository/serviceToService/src/main/java/com/ouriques/serviceToService/common/CustomerInterceptorRegister.java
+/home/eduardo-ouriques/git_repository/serviceToService/src/main/java/com/ouriques/serviceToService/model/CustomResponse.java
